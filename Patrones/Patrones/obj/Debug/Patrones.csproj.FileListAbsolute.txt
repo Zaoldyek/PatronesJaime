@@ -1,0 +1,7 @@
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\bin\Debug\Patrones.exe.config
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\bin\Debug\Patrones.exe
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\bin\Debug\Patrones.pdb
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\obj\Debug\Patrones.csprojAssemblyReference.cache
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\obj\Debug\Patrones.csproj.CoreCompileInputs.cache
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\obj\Debug\Patrones.exe
+C:\Users\antonio.guillemin\source\repos\Patrones\Patrones\obj\Debug\Patrones.pdb
