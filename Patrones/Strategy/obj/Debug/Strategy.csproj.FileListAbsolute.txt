@@ -4,3 +4,10 @@ C:\Users\antonio.guillemin\source\repos\Patrones\Strategy\bin\Debug\Strategy.pdb
 C:\Users\antonio.guillemin\source\repos\Patrones\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
 C:\Users\antonio.guillemin\source\repos\Patrones\Strategy\obj\Debug\Strategy.exe
 C:\Users\antonio.guillemin\source\repos\Patrones\Strategy\obj\Debug\Strategy.pdb
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\obj\Debug\Strategy.csprojAssemblyReference.cache
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\obj\Debug\Strategy.csproj.CoreCompileInputs.cache
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\obj\Debug\Strategy.exe
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\obj\Debug\Strategy.pdb
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\bin\Debug\Strategy.exe.config
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\bin\Debug\Strategy.exe
+C:\Eventos\PatronesJaime\PatronesJaime\Patrones\Strategy\bin\Debug\Strategy.pdb

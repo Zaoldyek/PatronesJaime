@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BMPtrategy.cs" />
+    <Compile Include="Context.cs" />
+    <Compile Include="JPEGStrategy.cs" />
+    <Compile Include="lStrategy.cs" />
+    <Compile Include="PNGStrategy.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

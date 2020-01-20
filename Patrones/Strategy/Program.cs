@@ -49,45 +49,12 @@ namespace Strategy
 
         }
     }
-    class Context
-    {
-        Strategy strategy { get; set; }
 
-        public void setStrategy(Strategy _strategy) {
-            strategy = _strategy;
-        }
 
-        public void doSomething(string cTitulo) {
-            strategy.Ejecutar(cTitulo);
-            Console.ReadLine();
-        }
-    }
+   
 
-    interface Strategy
-    {
-        void Ejecutar(string cTitulo);
-    }
+  
+    
 
-    class PNGStrategy : Strategy
-    {
-        public void Ejecutar(string cTitulo)
-        {
-            Console.WriteLine($"Se ha guardado la imagen {cTitulo}.PNG");
-        }
-    }
-    class JPEGStrategy : Strategy
-    {
-        public void Ejecutar(string cTitulo)
-        {
-            Console.WriteLine($"Se ha guardado la imagen {cTitulo}.JPEG");
-        }
-    }
-
-    class BMPtrategy : Strategy
-    {
-        public void Ejecutar(string cTitulo)
-        {
-            Console.WriteLine($"Se ha guardado la imagen {cTitulo}.BMP");
-        }
-    }
+  
 }
